@@ -27,7 +27,7 @@ jobs:
           - joan
           - chiron
           - sagit
-          -htc_ocmdtwl
+          - htc_ocmdtwl
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
