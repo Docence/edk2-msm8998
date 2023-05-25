@@ -9,6 +9,8 @@ on:
     branches: [Refactor/test/2023/05]
   pull_request:
     branches: [Refactor/test/2023/05]
+  workflow_run:
+    branches: [Refactor/test/2023/05]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
